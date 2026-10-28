@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "research-drafter": {
+      "type": "http",
+      "url": "https://research-drafter.vercel.app/api/drafter",
+      "alwaysLoad": true,
+      "timeout": 120000
+    }
+  }
+}
